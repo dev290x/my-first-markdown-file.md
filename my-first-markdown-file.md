@@ -1,6 +1,6 @@
 # Hello Markdown
 
-It is **5000** nice to be able to write in this simple format.
+It is **sooo** nice to be able to write in this simple format.
 
 Once you get hang of *it*, you just:
 
